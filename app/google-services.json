@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "426159342639",
+    "firebase_url": "https://faketwitter-23db6.firebaseio.com",
+    "project_id": "faketwitter-23db6",
+    "storage_bucket": "faketwitter-23db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426159342639:android:fc593ce478bdfa1a",
+        "android_client_info": {
+          "package_name": "niiponetwork.uwe_wolfie.faketwitterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426159342639-7udrmivncjj9kvnucaupbi8tolsj7261.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "niiponetwork.uwe_wolfie.faketwitterapp",
+            "certificate_hash": "41f115a18262ea382bfdb7e1c0fa0672b87ce179"
+          }
+        },
+        {
+          "client_id": "426159342639-6ftbemni25c5cimvm126irakso5sp1uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhysTAOxaux1A0oPCE1ZTurz9zwmbb5Xo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426159342639-6ftbemni25c5cimvm126irakso5sp1uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
